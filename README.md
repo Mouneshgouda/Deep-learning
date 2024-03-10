@@ -6,3 +6,6 @@ https://medium.com/@RaghavPrabhu/understanding-of-convolutional-neural-network-c
 Data Augumentation:
 
 https://medium.com/analytics-vidhya/data-augmentation-techniques-using-opencv-657bcb9cc30b
+
+Optimization:-
+https://towardsdatascience.com/deep-learning-optimizers-436171c9e23f
