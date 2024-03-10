@@ -9,3 +9,5 @@ https://medium.com/analytics-vidhya/data-augmentation-techniques-using-opencv-65
 
 Optimization:-
 https://towardsdatascience.com/deep-learning-optimizers-436171c9e23f
+
+https://www.codingninjas.com/studio/library/nesterov-accelerated-gradient
