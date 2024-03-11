@@ -7,6 +7,9 @@ Data Augumentation:
 
 https://medium.com/analytics-vidhya/data-augmentation-techniques-using-opencv-657bcb9cc30b
 
+
+https://research.aimultiple.com/data-augmentation-techniques/
+
 Optimization:-
 https://towardsdatascience.com/deep-learning-optimizers-436171c9e23f
 
