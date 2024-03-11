@@ -11,3 +11,8 @@ Optimization:-
 https://towardsdatascience.com/deep-learning-optimizers-436171c9e23f
 
 https://www.codingninjas.com/studio/library/nesterov-accelerated-gradient
+
+
+Hyperparameter:
+
+https://medium.com/analytics-vidhya/hyperparameter-tuning-using-keras-tuner-72a8cb394d0f
