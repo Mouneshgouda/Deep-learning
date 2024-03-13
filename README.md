@@ -1,9 +1,7 @@
 https://medium.com/analytics-vidhya/activation-functions-all-you-need-to-know-355a850d025e
 
 Cnn:-
-https://medium.com/@RaghavPrabhu/understanding-of-convolutional-neural-network-cnn-deep-learning-99760835f148
-
-https://towardsdatascience.com/covolutional-neural-network-cb0883dd6529
+https://medium.com/@mouneshpatil001/e2b458307dfb
 
 
 Data Augumentation:
