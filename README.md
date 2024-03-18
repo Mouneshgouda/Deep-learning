@@ -22,3 +22,6 @@ Hyperparameter:
 https://medium.com/analytics-vidhya/hyperparameter-tuning-using-keras-tuner-72a8cb394d0f
 
 Pre-traineed Model:-https://medium.com/@mouneshpatil001/transfer-learning-using-pre-trained-models-for-image-classification-resnet50-in-keras-b96967c5f124
+
+Lenet
+https://medium.com/codex/lenet-5-complete-architecture-84c6d08215f9
